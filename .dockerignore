@@ -1,0 +1,33 @@
+# Files NOT to send to the Docker build context.
+# Keep the build context small and avoid baking in secrets.
+
+# VCS / build artefacts
+.git/
+.gitignore
+.github/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+backend/.pytest_cache/
+backend/uploads/
+backend/.env
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Docs (don't need them in the image)
+*.md
+README.md
+LICENSE
+
+# Local sample data
+sample_photos/

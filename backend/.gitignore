@@ -1,0 +1,9 @@
+uploads/
+.venv/
+__pycache__/
+.env
+*.pyc
+node_modules/
+dist/
+.DS_Store
+sample_photos/

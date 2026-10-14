@@ -1,0 +1,42 @@
+{
+  "proteins_veg": [
+    {"name": "Paneer", "qty": 500, "unit": "g", "price_inr": 280, "protein_g": 90},
+    {"name": "Toor Dal", "qty": 1, "unit": "kg", "price_inr": 145, "protein_g": 220},
+    {"name": "Chana Dal", "qty": 1, "unit": "kg", "price_inr": 130, "protein_g": 200},
+    {"name": "Moong Dal", "qty": 1, "unit": "kg", "price_inr": 150, "protein_g": 240},
+    {"name": "Rajma (Kidney Beans)", "qty": 1, "unit": "kg", "price_inr": 160, "protein_g": 230},
+    {"name": "Soya Chunks", "qty": 1, "unit": "kg", "price_inr": 180, "protein_g": 520},
+    {"name": "Tofu", "qty": 400, "unit": "g", "price_inr": 110, "protein_g": 64},
+    {"name": "Greek Yogurt", "qty": 1, "unit": "kg", "price_inr": 220, "protein_g": 100},
+    {"name": "Milk (Toned)", "qty": 1, "unit": "L", "price_inr": 56, "protein_g": 32},
+    {"name": "Sprouts (Moong)", "qty": 500, "unit": "g", "price_inr": 60, "protein_g": 105},
+    {"name": "Peanuts", "qty": 500, "unit": "g", "price_inr": 110, "protein_g": 130},
+    {"name": "Almonds", "qty": 250, "unit": "g", "price_inr": 240, "protein_g": 50}
+  ],
+  "proteins_nonveg": [
+    {"name": "Eggs", "qty": 12, "unit": "pcs", "price_inr": 84, "protein_g": 72},
+    {"name": "Chicken Breast", "qty": 500, "unit": "g", "price_inr": 220, "protein_g": 155},
+    {"name": "Fish (Rohu)", "qty": 500, "unit": "g", "price_inr": 280, "protein_g": 100}
+  ],
+  "vegetables": [
+    {"name": "Spinach", "qty": 500, "unit": "g", "price_inr": 30, "nutrition_score": 9},
+    {"name": "Broccoli", "qty": 500, "unit": "g", "price_inr": 90, "nutrition_score": 9},
+    {"name": "Sweet Potato", "qty": 1, "unit": "kg", "price_inr": 50, "nutrition_score": 8},
+    {"name": "Tomato", "qty": 1, "unit": "kg", "price_inr": 40, "nutrition_score": 7},
+    {"name": "Cucumber", "qty": 1, "unit": "kg", "price_inr": 30, "nutrition_score": 7},
+    {"name": "Carrot", "qty": 500, "unit": "g", "price_inr": 35, "nutrition_score": 8},
+    {"name": "Bell Pepper", "qty": 500, "unit": "g", "price_inr": 80, "nutrition_score": 8},
+    {"name": "Bottle Gourd (Lauki)", "qty": 1, "unit": "kg", "price_inr": 30, "nutrition_score": 6},
+    {"name": "Bitter Gourd (Karela)", "qty": 500, "unit": "g", "price_inr": 40, "nutrition_score": 7},
+    {"name": "Cauliflower", "qty": 1, "unit": "kg", "price_inr": 50, "nutrition_score": 7},
+    {"name": "Onion", "qty": 1, "unit": "kg", "price_inr": 35, "nutrition_score": 6},
+    {"name": "Mushroom", "qty": 200, "unit": "g", "price_inr": 60, "nutrition_score": 8}
+  ],
+  "staples": [
+    {"name": "Brown Rice", "qty": 1, "unit": "kg", "price_inr": 95},
+    {"name": "Whole Wheat Atta", "qty": 5, "unit": "kg", "price_inr": 250},
+    {"name": "Oats", "qty": 1, "unit": "kg", "price_inr": 180},
+    {"name": "Ragi Flour", "qty": 1, "unit": "kg", "price_inr": 80},
+    {"name": "Quinoa", "qty": 500, "unit": "g", "price_inr": 280}
+  ]
+}
